@@ -17,7 +17,7 @@ body{
 }
 #title{
     text-align: center;
-    font-family: cursive;
+    font-family: 'Bowlby One SC', cursive;
     padding-top: 15px;
     font-size: 50px;
     letter-spacing: 5px;
@@ -30,6 +30,7 @@ span{
 #description{
     text-align: center;
     font-size: 23px;
+    font-family: 'Sorts Mill Goudy', serif;
 }
 #name,#email,#age,#dropdown{
     margin-top: 15px;
@@ -42,6 +43,7 @@ span{
 
 #feedback{
     margin-top: 10px;
+    resize: none;
 }
 #submit{
     background-color: red;
